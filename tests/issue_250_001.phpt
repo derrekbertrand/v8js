@@ -56,6 +56,8 @@ try {
 ===EOF===
 --EXPECTF--
 Warning: Creating default object from empty value in %s%eissue_250_001.php on line 9
+
+Warning: Creating default object from empty value in %s%eissue_250_001.php on line 9
 object(TestObject)#%d (3) {
   ["data":"TestObject":private]=>
   object(V8Object)#%d (0) {
